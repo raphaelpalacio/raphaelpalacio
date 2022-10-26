@@ -3,7 +3,7 @@
 <h3 align="center">A passionate mobile developer and frontend engineer studying at Emory University</h3>
 <img align="right" alt="Coding" width="400" src=https://data.whicdn.com/images/346645969/original.gif>
 
-<p align="left"> <a href="https://twitter.com/raphaelxpalaico" target="blank"><img src="https://img.shields.io/twitter/follow/raphaelxpalaico?logo=twitter&style=for-the-badge" alt="raphaelxpalaico" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raphaelxpalacio" target="blank"><img src="https://img.shields.io/twitter/follow/raphaelxpalaico?logo=twitter&style=for-the-badge" alt="raphaelxpalaico" /></a> </p>
 
 - 🔭 I’m currently working on **TrackCals**
 
